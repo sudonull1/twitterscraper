@@ -7,7 +7,7 @@ import csv
 import pandas as pd
 a = time.time()
 
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAKBnQAEAAAAA%2F7wDv%2BKDTrGnt2nW1Dqx7VKVOyg%3DjBNBO37zt9MZqH8pfgR3DIXhrApCoSnbbThHHWfBEQrBNkFbhH"
+bearer_token = ""                                                 #a very long string 
 search_url = "https://api.twitter.com/2/tweets/search/all"
 query_params = {
 	 
